@@ -6,4 +6,4 @@ This is a compass that uses the iPhone's camera and internal magnetic heading to
 
 
 
-![CompassCam](http://i.imgur.com/hRlDHoD.png)
+![CompassCam](http://i.imgur.com/hRlDHoD.png) ![CompassCam](http://i.imgur.com/7JLCKWN.png)
